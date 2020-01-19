@@ -1,2 +1,3 @@
 # Project-FileSystem
-The File system project having basic features built using C over Linux platform.
+B+ Tree based basic File system project using C over Linux platform.
+Functionality : mkdir , ls , pwd, cd.
