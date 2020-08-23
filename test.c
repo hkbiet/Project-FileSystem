@@ -9,6 +9,7 @@ struct record{
 };
 
 
+
 int main(){
 
 	FILE *fpw, *fpr;
